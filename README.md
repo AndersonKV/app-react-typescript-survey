@@ -4,8 +4,8 @@ Projeto feito com node, react e typescript, o objetivo era estudar mais o typesc
 
 <b>Features</b>
 <ul>
-    <li>Enviar o questionario com ate 10 perguntas e ate 10 dias para expirar</li>
     <ul>
+        <li>Enviar o questionario com ate 10 perguntas e ate 10 dias para expirar</li>
         <li>Criar questionario</li>
         <li>Votar no questionario</li>
         <li>Exibi se expirou ou não</li>
